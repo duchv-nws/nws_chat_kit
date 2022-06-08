@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - nws_chat_kit (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - nws_chat_kit (from `.symlinks/plugins/nws_chat_kit/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  nws_chat_kit:
+    :path: ".symlinks/plugins/nws_chat_kit/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  nws_chat_kit: 7edfc75f343dac00577c5c07c9e084e51e225d67
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
